@@ -1,7 +1,7 @@
 import React from 'react';
 import './Products.css';
-import crepesImage from '../assets/crepes.jpg'; // Imagem de crepes
-import shakesImage from '../assets/shakes.jpg'; // Imagem de shakes
+import crepesImage from '../assets/crepes.png'; // Imagem de crepes
+import shakesImage from '../assets/shakes.png'; // Imagem de shakes
 
 function Products() {
   return (
