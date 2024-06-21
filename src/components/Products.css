@@ -1,0 +1,15 @@
+.products {
+    padding: 20px;
+  }
+  
+  .product-section {
+    margin: 20px 0;
+  }
+  
+  .product-section h3 {
+    color: #ff7043; /* Laranja */
+  }
+  
+  .product-section p {
+    color: #66bb6a; /* Verde */
+  }  
