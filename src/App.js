@@ -1,15 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
+import Header from './components/Header';
+import Banner from './components/Banner';
+import Products from './components/Products';
+import Footer from './components/Footer';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>Jesus Cristo_O Caminho, A Verdade e A Vida</h1>
-        <h3>Hello from V2</h3>
-      </header>
+      <Header />
+      <Banner />
+      <Products />
+      <Footer />
     </div>
   );
 }
